@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bureau_of_Customs.svg/1200px-Bureau_of_Customs.svg.png" width=20% align="center">  
 
-<center> <font size="5"><b>Call of Duties: An Analysis of the Duties and Taxes of Imported Products in 2019</font></center>
+<center> <font size="15"><b>Call of Duties: An Analysis of the Duties and Taxes of Imported Products in 2019</font></center>
 
 # <span style="color:darkblue"> Executive Summary </span>
 

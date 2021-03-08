@@ -1,6 +1,6 @@
 # Call of Duties: An Analysis of the Duties and Taxes of Imported Products in 2019 (Philippines)
 
-### EC Corro | Josef Monje | Jeely Nicole Obrero | Matthew Romero | Alejandro White 
+### Eugenio Cedric Corro | Josef Monje | Jeely Nicole Obrero | Matthew Romero | Alejandro White 
 
 ## <span style="color:darkblue"> Executive Summary </span>
 

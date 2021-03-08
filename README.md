@@ -1,5 +1,7 @@
 # Call of Duties: An Analysis of the Duties and Taxes of Imported Products in 2019 (Philippines)
 
+### EC Corro | Josef Monje | Jeely Nicole Obrero | Matthew Romero | Alejandro White 
+
 ## <span style="color:darkblue"> Executive Summary </span>
 
 Except for the year 2018, the Philippine Bureau of Customs (BoC) has consistently missed its revenue collection targets. It seems likely that the BoC would again miss their target in 2020 because of the pandemic affecting the world. This study is an exploration of the importing behavior of the Philippines using 2019 customs data. The data is part of the "Philippine Customs Imports dataset" made available by the BoC [through their website](http://customs.gov.ph/import-reports/). The researchers would like to explore the question "Where does the Bureau of Customs' income come from?"
